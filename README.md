@@ -21,8 +21,8 @@ This project demonstrates the core concepts of compilers and interpreters:
 
 ## Run
 
-make
-./mini_lang examples/test1.min
-./mini_lang examples/test2.min
-./mini_lang examples/test3.min
-./mini_lang examples/test4.min
+- make
+- ./mini_lang examples/test1.min
+- ./mini_lang examples/test2.min
+- ./mini_lang examples/test3.min
+- ./mini_lang examples/test4.min
