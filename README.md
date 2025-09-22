@@ -21,6 +21,7 @@ This project demonstrates the core concepts of compilers and interpreters:
 
 ## Run
 
+- cd mini_lang
 - make
 - ./mini_lang examples/test1.min
 - ./mini_lang examples/test2.min
